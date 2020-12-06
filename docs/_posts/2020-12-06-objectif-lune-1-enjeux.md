@@ -15,6 +15,8 @@ Mais une fois l'objectif atteint, c'est le calme plat depuis le milieu des anné
 
 ## Les nouveaux enjeux du retour sur la lune
 
+![objectif-lune-1](/assets/objectif-lune-1.jpg)
+
 Depuis quelques années on constate un regain d'intérêt très fort autour de la lune, qui présente plusieurs aspects stratégiques très importants.
 
 ### Une position stratégique
