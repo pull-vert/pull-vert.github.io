@@ -9,7 +9,7 @@ tag: spatial
 Dans les années 1960, la première "Course à l'espace" était surtout un duel d'égo très politique entre les Etats-Unis et la Russie, dans le contexte de la guerre froide.
 
 Pedant quelques années, ces deux pays ont enchaîné les missions très ambitieuses avec la lune comme objectif ultime, dépensant sans compter pour démontrer leur puissance.
-Les Américains sont encore à ce jour les seuls à réussir l'exploit d'envoyer des hommes sur notre satellite, mais les Russes ont eux-aussi réalisé de belles premières mondiales lors de cette période très intense de l'exploration spatiale.
+Les Américains sont encore à ce jour les seuls à avoir réussi l'exploit d'envoyer des hommes sur notre satellite, les Russes ayant eux-aussi réalisé de belles premières mondiales lors de cette période très intense de l'exploration spatiale.
 
 Mais une fois l'objectif atteint, c'est le calme plat depuis le milieu des années 70.
 
@@ -21,7 +21,7 @@ Depuis quelques années on constate un regain d'intérêt très fort autour de l
 
 S'arracher du sol terrestre est une opération extrêmement difficile. À cause de la gravité et de l'atmosphère épaisse de notre planète, beaucoup d'énergie, donc de carburant, doit être dépensée simplement pour atteindre l'espace.
 
-A l'échelle de l'espace, la lune est la porte à côté de notre terre, et présente des caractéristiques idéales pour devenir le "hub" de l'exploration spatiale :
+À l'échelle de l'espace, la lune est la porte à côté de notre terre, et présente des caractéristiques idéales pour devenir le "hub" de l'exploration spatiale :
 * une gravité très faible
 * pas d'atmosphère
 * quelques ressources présentes sur place
@@ -35,7 +35,7 @@ Cette zone sera à n'en pas douter très convoitée. Avoir de l'eau sur place pe
 
 Les analyses des échantillons lunaires rapportés dans les années 70 ont montré une forte concentration en helium-3,
 quasiment absent de la terre mais qui serait l'un des éléments de base idéal pour la fusion nucléaire. Cette technologie, offre la promesse d'une énergie propre et presque illimitée.
-La France est l'un des pays les plus actifs sur le sujet de la fusion, avec le pharaonique projet international [ITER][iter] sur notre territoire.
+La France est un pays très impliqué sur le sujet, avec le pharaonique projet international [ITER][iter] sur notre territoire.
 La lune disposerait de réserves suffisantes d'helium-3 pour assurer des centaines d'années de production énergétique mondiale via la fusion.
 
 D'autres ressources peuvent également avoir un intérêt, comme la régolithe (ou poussière) lunaire à partir de laquelle on pourrait produire sur place différents éléments, et peut-être la présence de métaux rares qui ont le vent en poupe depuis ces dernières années.
@@ -66,6 +66,10 @@ Des entreprises américaines comme SpaceX, Blue Origin ou Moon Express ne cachen
 Plus globalement, depuis plusieurs années à l'international le domaine du ["New space"][new-space] dispose d'un très fort soutien des marchés financiers, permettant un développement très rapide de ces nouveaux venus privés qui se disputent le très lucratif business de l'espace.
 
 Ces entreprises privées à but commercial viennent bousculer le monde spatial, jusqu'à maintenant propriété exclusive des agences gouvernementales à mission uniquement scientifique.
+
+**Sur le même sujet**
+* Vidéo : [Brut : la nouvelle course à la lune](https://www.youtube.com/watch?v=etVG4_o7930)
+* Vidéo (en anglais) : [Kurzgesagt : How We Could Build a Moon Base TODAY](https://www.youtube.com/watch?v=NtQkz0aRDe8)
 
 [iter]: https://fr.wikipedia.org/wiki/ITER
 [space-act]: https://fr.wikipedia.org/wiki/SPACE_Act_de_2015
