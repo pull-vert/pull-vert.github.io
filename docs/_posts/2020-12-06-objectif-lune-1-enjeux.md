@@ -28,7 +28,7 @@ S'arracher du sol terrestre est une opération extrêmement difficile. À cause 
 * pas d'atmosphère
 * des ressources présentes sur place
 
-Prévoir d'y installer une base serait donc un excellent moyen de viser des destinations plus lointaines, en commençant par Mars.
+Y installer une base servirait donc d'entraînement à la construction en environnement extra-terrestre, et éventuellement d'escale, avant de viser des destinations plus lointaines, en commençant par Mars.
 
 ### Des ressources précieuses
 
