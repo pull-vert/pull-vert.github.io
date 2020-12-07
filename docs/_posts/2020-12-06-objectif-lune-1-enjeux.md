@@ -73,7 +73,7 @@ Ces entreprises privées à but commercial viennent bousculer le monde spatial, 
 **Sur le même sujet**
 * Vidéo : [Brut : la nouvelle course à la lune](https://www.youtube.com/watch?v=etVG4_o7930)
 * Vidéo (en anglais) : [Kurzgesagt : How We Could Build a Moon Base TODAY](https://www.youtube.com/watch?v=NtQkz0aRDe8)
-* Vidéo (en anglais): [USA's Crazy Plan To Mine The Moon In 5 Years](https://youtu.be/fReeZh5B71c)
+* Vidéo (en anglais) : [USA's Crazy Plan To Mine The Moon In 5 Years](https://youtu.be/fReeZh5B71c)
 
 [iter]: https://fr.wikipedia.org/wiki/ITER
 [space-act]: https://fr.wikipedia.org/wiki/SPACE_Act_de_2015
