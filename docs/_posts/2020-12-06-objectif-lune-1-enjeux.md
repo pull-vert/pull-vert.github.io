@@ -58,9 +58,9 @@ Dans ce cadre, la NASA a signé des accords de collaboration avec d'autres pays 
 
 La Chine est également activement engagée dans cet objectif, avec de belles missions menées ces dernières années et à venir, en particulier les premiers retours d'échantillons sur terre depuis 50 ans.
 
-La Russie cherche bien entendu à avoir sa place dans l'exploitation de notre satellite, nouant elle-aussi des accords avec l'ESA entre autre.
+La Russie cherche bien entendu à avoir sa place dans l'exploitation de notre satellite, nouant elle-aussi des partenariats, avec l'ESA entre autre.
 
-D'autres pays, lancés plus récemment dans l'aventure spatiale, souhaite eux-aussi participer à la course : Inde, Japon, Israël...
+D'autres pays, lancés plus récemment dans l'aventure spatiale, souhaitent également participer à la course : Inde, Japon, Israël...
 
 ### Les acteurs privés
 
