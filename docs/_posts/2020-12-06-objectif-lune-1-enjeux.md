@@ -3,7 +3,7 @@ layout: post
 title:  "Objectif lune (1) : les enjeux"
 date:   2020-12-05 14:59:20 +0100
 categories: [spatial,eco]
-tag: spatial
+tags: [conquête spatiale, lune, Artemis]
 ---
 
 Dans les années 1960, la première "Course à l'espace" était surtout un duel d'égo très politique entre les Etats-Unis et la Russie, dans le contexte de la guerre froide.
