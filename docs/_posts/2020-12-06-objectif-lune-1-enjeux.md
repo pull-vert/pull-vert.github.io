@@ -2,7 +2,7 @@
 layout: post
 title:  "Objectif lune (1) : les enjeux"
 date:   2020-12-05 14:59:20 +0100
-categories: [spatial,eco]
+categories: [spatial,economie]
 tags: [conquête spatiale, lune, Artemis]
 ---
 
