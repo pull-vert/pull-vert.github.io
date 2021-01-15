@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le progrès (1) : Machines et révolution industrielle"
+title:  "Le progrès (1) : machines et révolution industrielle"
 date:   2020-12-08 14:59:20 +0100
 categories: [societe]
 tags: [progrès, machines, révolution industrielle, énergies fossiles]
