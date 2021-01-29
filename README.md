@@ -14,3 +14,7 @@ bundle exec jekyll serve
 
 * L'UE via l'ESA peut prendre une place à part entière
 * un lanceur lourd pour une souveraineté spatiale européenne
+
+### Energie
+
+* Un mix énergétique demande une maitrise d'état pour assurer une production constante
