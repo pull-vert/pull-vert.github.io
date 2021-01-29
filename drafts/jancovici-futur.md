@@ -16,6 +16,12 @@ produire de l'hydrogène est l'électrolyse, qui demande beaucoup d'électricit�
 Si on voulait remplacer tout le pétrole par de l'hydrogène dans les moyens de transport en France,
 il faudrait doubler notre capacité nationale de production d'électricité.
 
+Les 2 applications à envisager pour l'hydrogène sont la production d'acier et la production des engrais azotés.
+
+Les engrais azotés, qu'on a commencé à utiliser après la seconde guerre mondiale, ont permis de tripler le rendement du
+blé en 30 ans, entre 1945 et 1975. \
+Il faut en diminuer l'utilisation mais il sera difficile de s'en passer du fait de la population mondiale.
+
 Les voitures électriques, ou le méthane s'il est produit par électrolyse, ont des émissions directement liées à celles
 de la production d'électricité. En Chine, où l'électricité est produite en grande majorité par des centrales à charbon,
 une voiture électrique n'a pas du tout la même empreinte carbone qu'en france, où notre mix électrique est décarbonné à
