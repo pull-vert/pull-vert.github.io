@@ -1,7 +1,21 @@
+Doc [github page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll)
+
+This blog needs Ruby language interpreter and bundler tool :
+```bash
+sudo apt install ruby-full
+sudo gem install bundler
+```
+Then install project :
+```bash
+cd docs
+bundle install
+```
 Local deploy :
 ```bash
+cd docs
 bundle exec jekyll serve
 ```
+To preview your site, in your web browser, navigate to http://localhost:4000
 
 ## Idées pour la suite
 

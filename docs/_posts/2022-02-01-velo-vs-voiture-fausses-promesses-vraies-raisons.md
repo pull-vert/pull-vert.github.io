@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Voiture vs vélo : fausses promesses et vraies raisons"
-date:   2021-01-15 08:12:30 +0100
+date:   2022-02-01 10:48:30 +0100
 categories: [ecologie,mobilite]
 tags: [transition écologique,vélo,réduction émissions GES]
 ---
@@ -21,20 +21,20 @@ Le vélo est un moyen de transport qui ne manque pas de qualités :
 * Il permet de se maintenir en forme tout en se déplaçant
 * Les municipalités investissent, parfois massivement, pour le développer : création de pistes cyclables ou même de voies réservées, aménagement des règles de circulation en leur faveur...
 
-Comment expliquer que malgré ces arguments indéniables, le vélo soit pourtant si peu utilisé ?
+Comment expliquer pourquoi, malgré ces arguments indéniables, le vélo soit pourtant si peu utilisé ?
 
-## Les vraies raisons de la prépondérance de la voiture
+## Les raisons de la prépondérance de la voiture
 
-
+La raison principale vient du simple fait que la grande majorité des gens dispose déjà d'une voiture individuelle, voir [cet article]({% link _posts/2022-02-01-pourquoi-la-voiture-domine.md %})
 
 Pour ces propriétaires de voiture, au moment du choix du moyen de transport à utiliser pour ses trajets, la différence de coût entre voiture et vélo est donc celle du seul carburant consommé contre le prix d'achat d'un vélo, classique ou électrique.
 
-### Les vraies contraintes du vélo
+### Les contraintes du vélo
 
-Encouragé et souvent enjolivé, le transport en vélo a malgré tout de sérieuses contraintes :
-* Sauf dans les zones à très forte congestion de circulation, le vélo est moins rapide que la voiture
+Encouragé et souvent enjolivé, le transport en vélo a malgré tout de sérieuses contraintes
+* Le vélo est moins rapide que la voiture, sauf dans les zones à très forte congestion de circulation
 * En cas de fort vent, de froid intense, de pluie ou de neige rouler en vélo devient un vrai désagrément, en plus d'être alors beaucoup plus risqué
-* La majorité des rues ne possèdent pas de voie dédiée aux vélos, ou seulement une bande cyclable, les autres véhicules frôlent alors dangereusement les cyclistes
+* La majorité des rues ne possède pas de voie dédiée aux vélos, ou seulement une bande cyclable, la cohabitation avec les autres véhicules motorisés est difficile et dangereuse pour les cyclistes
 
 
 [statistiques-mobilite-2019]: https://www.statistiques.developpement-durable.gouv.fr/comment-les-francais-se-deplacent-ils-en-2019-resultats-de-lenquete-mobilite-des-personnes
